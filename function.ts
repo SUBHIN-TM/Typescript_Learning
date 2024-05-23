@@ -53,4 +53,11 @@ heros.map((data)=>  {
 
 
 
+
+
+
+
+
+
+
 export{}  //just to avoid unwanted error sign
