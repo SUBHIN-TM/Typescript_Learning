@@ -2,7 +2,6 @@ function createUser({name}: {name: string}): {output: string} {
     console.log(name);
     return {output: "returned"};
  }
- 
  createUser({name: 'subhin'});
  
  
